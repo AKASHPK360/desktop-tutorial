@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - NexorAI</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 50px 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .content {
+            padding: 50px 40px;
+            color: #333;
+        }
+
+        .last-updated {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            font-size: 0.95em;
+            color: #666;
+            text-align: center;
+        }
+
+        .section {
+            margin-bottom: 35px;
+        }
+
+        .section h2 {
+            color: #667eea;
+            font-size: 1.8em;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .section h3 {
+            color: #764ba2;
+            font-size: 1.3em;
+            margin: 20px 0 10px 0;
+        }
+
+        .section p {
+            margin-bottom: 15px;
+            color: #555;
+            font-size: 1.05em;
+        }
+
+        .section ul {
+            margin-left: 25px;
+            margin-bottom: 15px;
+        }
+
+        .section li {
+            margin-bottom: 10px;
+            color: #555;
+            font-size: 1.05em;
+        }
+
+        .highlight-box {
+            background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+
+        .contact-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            margin-top: 40px;
+            text-align: center;
+        }
+
+        .contact-box h3 {
+            color: white;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+
+        .contact-box a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            border-bottom: 2px solid white;
+            transition: opacity 0.3s;
+        }
+
+        .contact-box a:hover {
+            opacity: 0.8;
+        }
+
+        .footer {
+            background: #f8f9fa;
+            padding: 30px 40px;
+            text-align: center;
+            color: #666;
+            font-size: 0.95em;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 30px 20px;
+            }
+
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .content {
+                padding: 30px 20px;
+            }
+
+            .section h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Privacy Policy</h1>
+            <p>NexorAI - Your Privacy Matters</p>
+        </div>
+
+        <div class="content">
+            <div class="last-updated">
+                <strong>Last Updated:</strong> November 23, 2025
+            </div>
+
+            <div class="section">
+                <h2>1. Introduction</h2>
+                <p>Welcome to NexorAI! We are committed to protecting your privacy and ensuring transparency about how we collect, use, and safeguard your information. This Privacy Policy explains our practices regarding your data when you use our mobile application.</p>
+                <div class="highlight-box">
+                    <strong>Our Commitment:</strong> We believe in giving you control over your personal information and being transparent about our data practices.
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>2. Information We Collect</h2>
+                
+                <h3>2.1 Information You Provide</h3>
+                <ul>
+                    <li><strong>Account Information:</strong> Name, email address, and password when you create an account</li>
+                    <li><strong>Profile Data:</strong> Optional profile picture and preferences</li>
+                    <li><strong>User Content:</strong> Questions, prompts, and interactions with our AI assistant</li>
+                    <li><strong>Feedback:</strong> Reviews, ratings, and support communications</li>
+                </ul>
+
+                <h3>2.2 Automatically Collected Information</h3>
+                <ul>
+                    <li><strong>Device Information:</strong> Device type, operating system, unique device identifiers</li>
+                    <li><strong>Usage Data:</strong> App features used, interaction frequency, session duration</li>
+                    <li><strong>Performance Data:</strong> Crash reports, error logs, and diagnostic information</li>
+                    <li><strong>Location Data:</strong> Approximate location based on IP address (if permitted)</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2>3. How We Use Your Information</h2>
+                <p>We use the collected information for the following purposes:</p>
+                <ul>
+                    <li><strong>Service Delivery:</strong> To provide, maintain, and improve NexorAI features</li>
+                    <li><strong>Personalization:</strong> To customize your experience and provide relevant responses</li>
+                    <li><strong>Communication:</strong> To send updates, notifications, and respond to your inquiries</li>
+                    <li><strong>Security:</strong> To protect against fraud, abuse, and security threats</li>
+                    <li><strong>Analytics:</strong> To understand usage patterns and improve app performance</li>
+                    <li><strong>Legal Compliance:</strong> To comply with applicable laws and regulations</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2>4. Data Sharing and Disclosure</h2>
+                <p>We respect your privacy and limit data sharing to essential purposes:</p>
+                
+                <h3>4.1 We May Share Information With:</h3>
+                <ul>
+                    <li><strong>Service Providers:</strong> Third-party companies that help us operate our app (cloud hosting, analytics, customer support)</li>
+                    <li><strong>AI Service Providers:</strong> Our AI processing partners (all data is encrypted and processed securely)</li>
+                    <li><strong>Legal Requirements:</strong> When required by law, court order, or government request</li>
+                    <li><strong>Business Transfers:</strong> In connection with a merger, acquisition, or sale of assets</li>
+                </ul>
+
+                <div class="highlight-box">
+                    <strong>We Never:</strong> Sell your personal information to third parties or use your conversations for advertising purposes.
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>5. Data Security</h2>
+                <p>We implement industry-standard security measures to protect your information:</p>
+                <ul>
+                    <li>End-to-end encryption for sensitive data transmission</li>
+                    <li>Secure cloud storage with regular backups</li>
+                    <li>Regular security audits and vulnerability assessments</li>
+                    <li>Access controls and authentication requirements</li>
+                    <li>Employee training on data protection practices</li>
+                </ul>
+                <p>However, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security.</p>
+            </div>
+
+            <div class="section">
+                <h2>6. Data Retention</h2>
+                <p>We retain your information for as long as necessary to:</p>
+                <ul>
+                    <li>Provide our services and maintain your account</li>
+                    <li>Comply with legal obligations</li>
+                    <li>Resolve disputes and enforce our agreements</li>
+                    <li>Improve our services and develop new features</li>
+                </ul>
+                <p>You can request deletion of your account and associated data at any time through the app settings.</p>
+            </div>
+
+            <div class="section">
+                <h2>7. Your Rights and Choices</h2>
+                <p>You have the following rights regarding your personal information:</p>
+                <ul>
+                    <li><strong>Access:</strong> Request a copy of the personal data we hold about you</li>
+                    <li><strong>Correction:</strong> Update or correct inaccurate information</li>
+                    <li><strong>Deletion:</strong> Request deletion of your account and data</li>
+                    <li><strong>Export:</strong> Download your data in a portable format</li>
+                    <li><strong>Opt-Out:</strong> Unsubscribe from marketing communications</li>
+                    <li><strong>Restrict Processing:</strong> Limit how we use your information</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2>8. Children's Privacy</h2>
+                <p>NexorAI is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately, and we will delete such information.</p>
+            </div>
+
+            <div class="section">
+                <h2>9. Third-Party Services</h2>
+                <p>Our app may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to review their privacy policies before providing any personal information.</p>
+            </div>
+
+            <div class="section">
+                <h2>10. International Data Transfers</h2>
+                <p>Your information may be transferred to and processed in countries other than your country of residence. We ensure appropriate safeguards are in place to protect your data in accordance with this Privacy Policy and applicable laws.</p>
+            </div>
+
+            <div class="section">
+                <h2>11. Updates to This Policy</h2>
+                <p>We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes by:</p>
+                <ul>
+                    <li>Posting the updated policy in the app</li>
+                    <li>Sending an email notification (for significant changes)</li>
+                    <li>Displaying an in-app notification</li>
+                </ul>
+                <p>Your continued use of NexorAI after changes become effective constitutes acceptance of the updated policy.</p>
+            </div>
+
+            <div class="contact-box">
+                <h3>Contact Us</h3>
+                <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</p>
+                <p style="margin-top: 15px;">
+                    <strong>Email:</strong> <a href="mailto:privacy@nexorai.com">privacy@nexorai.com</a><br>
+                    <strong>Support:</strong> <a href="mailto:support@nexorai.com">support@nexorai.com</a>
+                </p>
+                <p style="margin-top: 15px; font-size: 0.95em;">
+                    We aim to respond to all inquiries within 48 hours.
+                </p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p><strong>NexorAI</strong> - Empowering Conversations with AI</p>
+            <p style="margin-top: 10px;">© 2025 NexorAI. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
